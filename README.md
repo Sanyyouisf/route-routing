@@ -1,4 +1,4 @@
-# route-routing
+# Route-Routing
 
 ## Project Description
 [Project Specifications](https://github.com/nashville-software-school/front-end-milestones/blob/master/5-modern-frameworks/exercises/MF_ROUTE_ROUTING.md)
@@ -16,8 +16,6 @@
 	- $scope.highwayDescription
 6. You provide the name and description for each highway that you find via research.
 
-![Blog Screengrab](https://raw.githubusercontent.com/nss-evening-cohort-05/chatty-scorpion-ducks/ed6e47566f6e04a8b272b0cd0b3016fbe9bc39df/ScreenGrab.PNG)
-
 ## Technologies
 
 - HTML5
@@ -26,4 +24,12 @@
 - Bootstrap
 - Angular
 - ngRoute
+
+
+![Blog Screengrab](https://github.com/Sanyyouisf/route-routing/blob/routs/images/Screen%20Shot%202017-05-19%20at%208.57.53%20PM.png)
+
+![Blog Screengrab](https://github.com/Sanyyouisf/route-routing/blob/routs/images/Screen%20Shot%202017-05-19%20at%208.58.06%20PM.png)
+
+![Blog Screengrab](https://github.com/Sanyyouisf/route-routing/blob/routs/images/Screen%20Shot%202017-05-19%20at%208.57.53%20PM.png)
+
 
