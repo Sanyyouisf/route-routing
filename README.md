@@ -1,25 +1,29 @@
 # route-routing
 
-## Requirements
+## Project Description
+[Project Specifications](https://github.com/nss-evening-cohort-05/chatty-scorpion-ducks/blob/master/instructions.md)
 
-For this exercise, you're going to create a basic application, with a two views. Each view will provide information about a famous American highway. Each will have a title show the name of the highway, and an element in which the description of the highway will be displayed.
+## Instructions
 
-You will need:
+1. An Angular application module. Inject ngRoute into your applcation.
+2. A config section for your application where you set up two routes.
+	- Famous highway #1
+	- Famous highway #2
+3. Two controllers defined in your application.
+4. Two partials - one bound to one of the controllers.
+5. Each controller will have two scope variables.
+	- $scope.highwayName
+	- $scope.highwayDescription
+6. You provide the name and description for each highway that you find via research.
 
-An Angular application module. Inject ngRoute into your applcation.
-A config section for your application where you set up two routes.
-Famous highway #1
-Famous highway #2
-Two controllers defined in your application.
-Two partials - one bound to one of the controllers.
-Each controller will have two scope variables.
-$scope.highwayName
-$scope.highwayDescription
-You provide the name and description for each highway that you find via research.
-Start http-server and access both of the routes and verify that each highway's information displays correctly.
+![Blog Screengrab](https://raw.githubusercontent.com/nss-evening-cohort-05/chatty-scorpion-ducks/ed6e47566f6e04a8b272b0cd0b3016fbe9bc39df/ScreenGrab.PNG)
 
-Example routes:
+## Technologies
 
-http://localhost:8080/#/blueridgeparkway
+- HTML5
+- CSS
+- JavaScript
+- Bootstrap
+- Angular
+- nrRoute
 
-http://localhost:8080/#/route66
