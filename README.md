@@ -30,6 +30,6 @@
 
 ![Blog Screengrab](https://github.com/Sanyyouisf/route-routing/blob/routs/images/Screen%20Shot%202017-05-19%20at%208.58.06%20PM.png)
 
-![Blog Screengrab](https://github.com/Sanyyouisf/route-routing/blob/routs/images/Screen%20Shot%202017-05-19%20at%208.57.53%20PM.png)
+![Blog Screengrab](https://github.com/Sanyyouisf/route-routing/blob/routs/images/Screen%20Shot%202017-05-19%20at%208.58.19%20PM.png)
 
 
