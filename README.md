@@ -1,7 +1,7 @@
 # route-routing
 
 ## Project Description
-[Project Specifications](https://github.com/nss-evening-cohort-05/chatty-scorpion-ducks/blob/master/instructions.md)
+[Project Specifications](https://github.com/nashville-software-school/front-end-milestones/blob/master/5-modern-frameworks/exercises/MF_ROUTE_ROUTING.md)
 
 ## Instructions
 
@@ -25,5 +25,5 @@
 - JavaScript
 - Bootstrap
 - Angular
-- nrRoute
+- ngRoute
 
